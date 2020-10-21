@@ -1,4 +1,4 @@
-# simon Game
+# Simon Game
 
 It is a classic game of sharp memories and fast hands is back to exercise the minds of a new generation while giving the older fogies a little neuron nostalgia.
 
