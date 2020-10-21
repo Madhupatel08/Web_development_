@@ -1,6 +1,4 @@
-# Drum-Learning
-This is a website that reinforces the concepts learned from Javascript.
-Have fun playing around with the drums.
+# Music - Mania (Drum - Kit)
+A To-do List web application integrated with a database, to keep track of all your tasks.
 
-The site can be found at:
- [Click Here](https://adititiwari02.github.io/Drum-Learning/)
+This web application presents a simple interface to manage your daily tasks. Any user can add a list of their tasks, and cross them or delete them once finished. The page is rendered dynamically to show all the to-dos that have been saved by a user.
