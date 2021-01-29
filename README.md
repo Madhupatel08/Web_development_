@@ -1,2 +1,4 @@
 # Web_development_Course
-This repository contains the mini projects/ websites made me.
+This repository contains various mini projects/websites made by me.
+Tech stacks used -> HTML,CSS,JS,Bootstrap,mongoDB, Nodejs
+
